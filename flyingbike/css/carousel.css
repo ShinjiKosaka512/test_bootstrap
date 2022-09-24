@@ -1,0 +1,20 @@
+.carousel-background1 {
+    background-image: url(../img/documents.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 50vh;
+}
+
+.carousel-background2 {
+    background-image: url(../img/trace.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 50vh;
+}
+
+.carousel-background2 {
+    background-image: url(../img/process.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 50vh;
+}
